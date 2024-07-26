@@ -19,3 +19,7 @@ See [README.md](./400/README.md)
 ## 500 - Add a Payment Card
 
 See [README.md](./500/README.md)
+
+## 600 - Finished!
+
+See [README.md](./600/README.md)
