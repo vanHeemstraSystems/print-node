@@ -1,7 +1,7 @@
 print-node
 # PrintNode
 
-Based on "PrintNode" at https://api.printnode.com/
+Based on "PrintNode" at https://www.printnode.com
 
 ## 100 - Introduction
 
