@@ -15,3 +15,7 @@ See [README.md](./300/README.md)
 ## 400 - Review Your Account Plan
 
 See [README.md](./400/README.md)
+
+## 500 - Add a Payment Card
+
+See [README.md](./500/README.md)
