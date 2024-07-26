@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+print-node
+# PrintNode
 
-Based on "ABC" at https://www.abc.com/
+Based on "PrintNode" at https://api.printnode.com/
 
 ## 100 - Introduction
 
